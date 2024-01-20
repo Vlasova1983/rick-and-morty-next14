@@ -1,0 +1,13 @@
+@media  (width >=768px) and (width <=1279px) {
+    .img{
+        width:723px;
+        height:212px; 
+    }
+}
+
+@media  (width >=1280px){
+    .img{
+        width:723px;
+        height:212px; 
+    }
+}
